@@ -1,0 +1,19 @@
+.image {
+    width: 300px;
+    height: auto;
+    
+}
+
+.descript {
+display: flex;
+}
+
+.text {
+    width: 500px;
+    height: 200px;
+}
+
+.persons {
+    display: flex; 
+    flex-wrap: wrap;
+}

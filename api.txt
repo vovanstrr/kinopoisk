@@ -1,0 +1,10 @@
+Теперь, ты можешь пользоваться API: 
+
+YYAGP6H-P39MB8P-QZJM5B0-FGMKHB7
+
+Документация по API: https://kinopoisk.dev/documentation
+Она описана в формате OpenAPI и поможет тебе быстро составить запрос к API.
+
+
+
+https://api.kinopoisk.dev/v1.3/movie/random
